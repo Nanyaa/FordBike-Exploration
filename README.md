@@ -13,7 +13,7 @@ Exploration is focused on bike rides analytics.
 - Carry out univariate, bivariate and multivariate exploration to get an understanding of the dataset
 
 ## Dataset
-Dataset includes information about individual rides made in a bikesharing system covering the greater San Francisco Bay area for the month of February 2019. The dataset contains 183412 rows and 16 columns. Dataset can be found [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv). To wrangele, dataset was copied, irrelevant columns were dropped and datatypes changed to appropriate format.
+Dataset includes information about individual rides made in a bikesharing system covering the greater San Francisco Bay area for the month of February 2019. The dataset contains 183412 rows and 16 columns. Dataset can be found [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv). To wrangle, dataset was copied, irrelevant columns were dropped and datatypes changed to appropriate format.
 
 ## Summary of Findings
 - Most trips lasted between 300 and 2000 seconds
